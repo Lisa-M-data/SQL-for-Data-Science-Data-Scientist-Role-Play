@@ -1,6 +1,5 @@
-Project Title: Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset
+Project Title: Profiling and Analyzing the Yelp Dataset
 
-Overview: This project is a two-part assignment designed to simulate the work of a data scientist by profiling and analyzing the Yelp dataset.
 
 Part 1: Data Profiling
 
